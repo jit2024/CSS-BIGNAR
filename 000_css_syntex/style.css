@@ -1,0 +1,13 @@
+h1{
+    border-style: inset;
+    border-width: 7px;
+    border-color: blue;
+    /* border-radius: 14px;
+    border-right: 50cap;
+    border-bottom-left-radius: 20px; */
+    /* border-right: 5px solid greenyellow; */
+    /* border-bottom: 50px solid red; */
+    border-left-style: dashed ;
+     border-right-style: dotted ;
+    border-top-style: double;
+         border-bottom-style:groove ;
